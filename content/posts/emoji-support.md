@@ -8,6 +8,9 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
+
+![](test/523730.jpg)
+
 Emoji can be enabled in a Hugo project in a number of ways.
 
 <!--more-->
