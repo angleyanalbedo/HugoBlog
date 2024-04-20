@@ -150,7 +150,7 @@ params:
   images: ["images/papermod-cover.png"]
 
   profileMode:
-    enabled: true
+    enabled: false
     title: RanniSnow
     imageUrl: "#"
     imageTitle: my image
@@ -158,9 +158,9 @@ params:
     # imageHeight: 120
     buttons:
       - name: 归档
-        url: archives
+        url: /archives
       - name: 标签
-        url: tags
+        url: /tags
 
   homeInfoParams:
     Title: "RanniSnow的博客"
