@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emoji on RanniSnowBlog</title>
+    <link>https://angleyanalbedo.github.io/HugoBlog/tags/emoji/</link>
+    <description>Recent content in Emoji on RanniSnowBlog</description>
+    <image>
+      <title>RanniSnowBlog</title>
+      <url>https://angleyanalbedo.github.io/HugoBlog/images/papermod-cover.png</url>
+      <link>https://angleyanalbedo.github.io/HugoBlog/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.125.1</generator>
+    <language>en</language>
+    <copyright>RanniSnow</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://angleyanalbedo.github.io/HugoBlog/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>https://angleyanalbedo.github.io/HugoBlog/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://angleyanalbedo.github.io/HugoBlog/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>
